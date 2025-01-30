@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj": {}
+    "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj": {
+    "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj",
         "projectName": "PensionNLPC.Utility",
-        "projectPath": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Utility\\PensionNLPC.Utility.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Utility\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

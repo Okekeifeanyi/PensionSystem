@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Common\\PensionNLPC.Common.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Common\\PensionNLPC.Common.csproj",
       "projectName": "PensionNLPC.Common",
-      "projectPath": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Common\\PensionNLPC.Common.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Common\\PensionNLPC.Common.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\NLPC\\PensionNLPC.Common\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\NLPCSOFTWARE\\PensionSystem\\PensionNLPC.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
