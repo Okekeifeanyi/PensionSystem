@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\bin\Debug\net8.0\PensionNLPC.Common.deps.json
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\bin\Debug\net8.0\PensionNLPC.Common.dll
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\bin\Debug\net8.0\PensionNLPC.Common.pdb
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.sourcelink.json
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.dll
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\refint\PensionNLPC.Common.dll
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\PensionNLPC.Common.pdb
+C:\Users\HP\Desktop\NLPCSOFTWARE\PensionSystem\PensionNLPC.Common\obj\Debug\net8.0\ref\PensionNLPC.Common.dll
