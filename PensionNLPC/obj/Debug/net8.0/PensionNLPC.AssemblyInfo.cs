@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PensionNLPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef0f64db871418dcf1e29839a392bf4f0e4e91bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5703453d9816ed8fba7fabaf23dcb1a9b3f8f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PensionNLPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PensionNLPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
