@@ -1,6 +1,10 @@
+using PensionNLPC.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// Register Dependency Injection (DI)
+builder.Services.AddDependencies(builder.Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,3 +27,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+
